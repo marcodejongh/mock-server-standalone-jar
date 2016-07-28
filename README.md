@@ -4,13 +4,13 @@ This repository includes a jarfile. It points to it.
 
 ### Installation
 
-    npm install --save-dev selenium-server-standalone-jar
+    npm install --save-dev mock-server-standalone-jar
 
 ### Usage
 
 This is up to you. All you get is:
 
-    var jar = require('selenium-server-standalone-jar');
+    var jar = require('mock-server-standalone-jar');
     console.log(jar.path);    // path to selenium-server-standalone-X.YY.Z.jar
     console.log(jar.version); // X.YY.Z
 

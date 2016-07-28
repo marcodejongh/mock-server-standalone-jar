@@ -1,6 +1,6 @@
 {
-  "name": "selenium-server-standalone-jar",
-  "version": "2.53.1",
+  "name": "mock-server-standalone-jar",
+  "version": "3.10.4",
   "description": "A jarfile, so you don't need to include it in your repository",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adamhooper/selenium-server-standalone-jar.git"
+    "url": "git://github.com/marcodejongh/mock-server-standalone-jar.git"
   },
   "keywords": [
     "selenium",
@@ -16,12 +16,12 @@
     "server",
     "jar"
   ],
-  "author": "Adam Hooper <adam@adamhooper.com>",
+  "author": "Marco de Jongh <m.jongh88@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/adamhooper/selenium-server-standalone-jar/issues"
+    "url": "https://github.com/marcodejongh/mock-server-standalone-jar/issues"
   },
-  "homepage": "https://github.com/adamhooper/selenium-server-standalone-jar",
+  "homepage": "https://github.com/marcodejongh/mock-server-standalone-jar",
   "devDependencies": {
     "mocha": "~1.17.1",
     "chai": "~1.9.0"
