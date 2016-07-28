@@ -1,6 +1,6 @@
 {
   "name": "mock-server-standalone-jar",
-  "version": "3.10.5",
+  "version": "3.10.6",
   "description": "A jarfile, so you don't need to include it in your repository",
   "main": "index.js",
   "scripts": {
